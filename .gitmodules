@@ -1,0 +1,36 @@
+[submodule "hmcts.cpo-case-payment-orders-api"]
+	path = hmcts/cpo-case-payment-orders-api
+	url = git://github.com/uk-gov-mirror/hmcts.cpo-case-payment-orders-api.git
+
+[submodule "hmcts.ccd-user-profile-api"]
+	path = hmcts/ccd-user-profile-api
+	url = git://github.com/uk-gov-mirror/hmcts.ccd-user-profile-api.git
+
+[submodule "hmcts.ccd-data-store-api"]
+	path = hmcts/ccd-data-store-api
+	url = git://github.com/uk-gov-mirror/hmcts.ccd-data-store-api.git
+
+[submodule "ministryofjustice.hmpps-book-secure-move-frontend"]
+	path = ministryofjustice/hmpps-book-secure-move-frontend
+	url = git://github.com/uk-gov-mirror/ministryofjustice.hmpps-book-secure-move-frontend.git
+
+[submodule "alphagov.pay-frontend"]
+	path = alphagov/pay-frontend
+	url = git://github.com/uk-gov-mirror/alphagov.pay-frontend.git
+
+[submodule "alphagov.pay-product-page"]
+	path = alphagov/pay-product-page
+	url = git://github.com/uk-gov-mirror/alphagov.pay-product-page.git
+
+[submodule "alphagov.pay-direct-debit-connector"]
+	path = alphagov/pay-direct-debit-connector
+	url = git://github.com/uk-gov-mirror/alphagov.pay-direct-debit-connector.git
+
+[submodule "alphagov.pay-js-commons"]
+	path = alphagov/pay-js-commons
+	url = git://github.com/uk-gov-mirror/alphagov.pay-js-commons.git
+
+[submodule "alphagov.pay-adminusers"]
+	path = alphagov/pay-adminusers
+	url = git://github.com/uk-gov-mirror/alphagov.pay-adminusers.git
+
